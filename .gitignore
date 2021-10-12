@@ -88,6 +88,6 @@ yarn-error.log
 
 .yarn-integrity
 
-
+.vercel
 firebase.json
 .env
